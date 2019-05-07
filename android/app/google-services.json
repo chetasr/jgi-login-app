@@ -1,0 +1,74 @@
+{
+  "project_info": {
+    "project_number": "42305550483",
+    "firebase_url": "https://jgi-login.firebaseio.com",
+    "project_id": "jgi-login",
+    "storage_bucket": "jgi-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42305550483:android:e63ccabc1e1ed729",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42305550483-1t9nigjva85sa97luuibvfd6jnqkr189.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOzSExd66lXrHEZAnHpcunGOhdyisp8xU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42305550483:android:ef629ddd3b101e7f",
+        "android_client_info": {
+          "package_name": "ml.chetasr.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42305550483-1t9nigjva85sa97luuibvfd6jnqkr189.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOzSExd66lXrHEZAnHpcunGOhdyisp8xU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-3394908532369730~8182660478"
+    }
+  ],
+  "configuration_version": "1"
+}

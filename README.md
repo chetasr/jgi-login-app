@@ -1,2 +1,3 @@
 # jgi-login-app
-JGI Login App
+
+The source code for the JGI Login app written in Dart/Flutter.
